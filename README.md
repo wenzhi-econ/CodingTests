@@ -14,15 +14,14 @@ The following lists the structure of the folder, together with some key files us
 |-- environment.yml
 |-- README.md 
 |-- codes
-    |--
-    |--
+    |--Question1.py
+    |--Question2.py
 |-- data
-    |--
-    |--
+    |--Selection_Task_2024.pdf
+    |--gravity.csv
+    |--trade.csv
 |-- LatexFiles
-    |--
-    |--
+    |--Results.tex
+    |--Results.pdf
 |-- results
-    |--
-    |--
 ```
