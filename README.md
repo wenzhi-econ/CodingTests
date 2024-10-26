@@ -15,7 +15,7 @@ The following lists the structure of the folder, together with some key files us
 |-- README.md 
 |-- codes
     |--Question1.py
-    |--Question2.py
+    |--Question2.do
 |-- data
     |--Selection_Task_2024.pdf
     |--gravity.csv
